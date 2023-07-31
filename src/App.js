@@ -12,7 +12,7 @@ function App() {
     return (
         <div>
             <nav>
-                
+                <header></header>
             </nav>
             <h2>React Google Login</h2>
             <br />
